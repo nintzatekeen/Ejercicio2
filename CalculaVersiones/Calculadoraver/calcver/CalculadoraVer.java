@@ -7,5 +7,7 @@ public class CalculadoraVer {
 		this.param1=param1;
 		this.param2=param2;
 	}
-
+	public int suma() {
+		return param1+param2;
+	}
 }
