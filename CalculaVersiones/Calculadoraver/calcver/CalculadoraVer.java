@@ -14,4 +14,7 @@ public class CalculadoraVer {
 	public int restar() {
 		return param1-param2;
 	}
+	public int multiplicar() {
+		return param1*param2;
+	}
 }
