@@ -11,4 +11,7 @@ public class CalculadoraVer {
 		//comentario
 		return param1+param2;
 	}
+	public int restar() {
+		return param1-param2;
+	}
 }
