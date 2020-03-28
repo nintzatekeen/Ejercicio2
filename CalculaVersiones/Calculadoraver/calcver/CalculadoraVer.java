@@ -17,4 +17,7 @@ public class CalculadoraVer {
 	public int multiplicar() {
 		return param1*param2;
 	}
+	public static void main(String[] args) {
+		System.out.println("hola");
+	}
 }
