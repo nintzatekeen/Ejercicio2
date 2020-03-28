@@ -8,6 +8,7 @@ public class CalculadoraVer {
 		this.param2=param2;
 	}
 	public int suma() {
+		//comentario
 		return param1+param2;
 	}
 }
